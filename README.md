@@ -14,23 +14,6 @@ The project consists of the following files:
 
 - `Data Cleaning and Exploratory Data Analysis Project.sql`: Main SQL file for data cleaning and EDA.
 - `Starting File/`: Directory containing additional SQL scripts used in the project.
-  - `1. Beginner - Parks_and_Rec_Create_db.sql`
-  - `2. Select Statement Tutorial.sql`
-  - `3. Where Statements.sql`
-  - `4. Group By Statements.sql`
-  - `5. Having VS Where Statements.sql`
-  - `6. Limit and AS Aliasing.sql`
-  - `7. Joins.sql`
-  - `8. Unions.sql`
-  - `9. String Functions - LENGTH, UPPER, LOWER, TRIM, SUBSTRING, REPLACE, LOCATE, CONCAT.sql`
-  - `10. Case Statements.sql`
-  - `11. Subqueries - IN, FROM.sql`
-  - `12. Window Function AVG(salary) OVER(partition by gender), ROW_NUMBER() OVER(partition by gender DESC).sql`
-  - `13. CTE TABLE - Nicer Way of table.sql`
-  - `14. Temp Tables - CREATE TEMPORARY TABLE temp_table.sql`
-  - `15. Stored Procedures - CREATE PROCEDURE large_salaries() CALL large_salaries().sql`
-  - `16. Triggers and Events.sql`
-  - `17. Data Cleaning.sql`
 
 ## Setup
 
